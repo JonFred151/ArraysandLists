@@ -1,0 +1,1 @@
+This is a C# exercise to show Arrays and Lists
