@@ -1,0 +1,15 @@
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\bin\Debug\net8.0\ArraysandLists.exe
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\bin\Debug\net8.0\ArraysandLists.deps.json
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\bin\Debug\net8.0\ArraysandLists.runtimeconfig.json
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\bin\Debug\net8.0\ArraysandLists.dll
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\bin\Debug\net8.0\ArraysandLists.pdb
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\obj\Debug\net8.0\ArraysandLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\obj\Debug\net8.0\ArraysandLists.AssemblyInfoInputs.cache
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\obj\Debug\net8.0\ArraysandLists.AssemblyInfo.cs
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\obj\Debug\net8.0\ArraysandLists.csproj.CoreCompileInputs.cache
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\obj\Debug\net8.0\ArraysandLists.sourcelink.json
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\obj\Debug\net8.0\ArraysandLists.dll
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\obj\Debug\net8.0\refint\ArraysandLists.dll
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\obj\Debug\net8.0\ArraysandLists.pdb
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\obj\Debug\net8.0\ArraysandLists.genruntimeconfig.cache
+C:\Users\Jon\repos\ArraysandList\ArraysandLists\ArraysandLists\obj\Debug\net8.0\ref\ArraysandLists.dll
