@@ -1,0 +1,15 @@
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\bin\Debug\net8.0\CollectionMasterConsoleUI.exe
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\bin\Debug\net8.0\CollectionMasterConsoleUI.deps.json
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\bin\Debug\net8.0\CollectionMasterConsoleUI.runtimeconfig.json
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\bin\Debug\net8.0\CollectionMasterConsoleUI.dll
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\bin\Debug\net8.0\CollectionMasterConsoleUI.pdb
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\obj\Debug\net8.0\CollectionMasterConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\obj\Debug\net8.0\CollectionMasterConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\obj\Debug\net8.0\CollectionMasterConsoleUI.AssemblyInfo.cs
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\obj\Debug\net8.0\CollectionMasterConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\obj\Debug\net8.0\CollectionMasterConsoleUI.sourcelink.json
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\obj\Debug\net8.0\CollectionMasterConsoleUI.dll
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\obj\Debug\net8.0\refint\CollectionMasterConsoleUI.dll
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\obj\Debug\net8.0\CollectionMasterConsoleUI.pdb
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\obj\Debug\net8.0\CollectionMasterConsoleUI.genruntimeconfig.cache
+C:\Users\Jon\repos\ArraysandList\CollectionMasterConsoleUI\CollectionMasterConsoleUI\obj\Debug\net8.0\ref\CollectionMasterConsoleUI.dll
