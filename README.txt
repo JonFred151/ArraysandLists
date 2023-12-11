@@ -1,1 +1,1 @@
-This is a C# exercise to show Arrays and Lists
+This is a C# exercise to show the creation of arrays and how to fill them and access the data. It also show how to make a list put data into the list and edit that data. It also takes a list and converts it into an array.
