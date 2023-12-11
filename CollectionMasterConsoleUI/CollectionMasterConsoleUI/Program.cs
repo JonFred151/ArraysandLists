@@ -62,9 +62,13 @@ namespace CollectionMasterConsoleUI
             //Gets rid of all odd numbers and sort the evens                   
             Console.WriteLine(" Sorted Evens only");
             OddKiller(ref numList);
-            Console.WriteLine("-------------------");
-
-            Console.WriteLine("-------------------");
+            Console.WriteLine("---------List-To-Array--------");
+            //Convert the list to an Array
+            var myArray = numList.ToArray();
+            NumberPrinter(myArray);
+            Console.WriteLine("-------END-OF-PROGRAM--------");
+            // clear list
+            numList.Clear();
 
 
             #endregion
