@@ -1,4 +1,4 @@
-**Array and List Manipulation Program**
+#Array and List Manipulation Program
 **Introduction**
 
 This C# program serves as a practical exercise to demonstrate the creation, input, access, and modification of data using arrays and lists. The program covers essential concepts such as creating arrays, populating them with data, and performing various operations on the stored information. Additionally, it showcases the creation and manipulation of lists, with an added functionality of converting a list into an array.
